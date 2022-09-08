@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*To print and 
-*return 0
+* To print and
+* Return 0
 */
 int main(void)
 {
